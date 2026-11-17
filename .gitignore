@@ -1,0 +1,9 @@
+# make.fun kit (not part of the entry)
+roblox-brainrot-01-kit/
+kit.tar.gz
+# local build outputs
+out/
+out1/
+out2/
+makefun-run.json
+BUILD_LOG.md
